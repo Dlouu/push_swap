@@ -31,6 +31,7 @@ DEBUG				= -fsanitize=address -fsanitize=leak -g3
 # ╚═╝╚═╝╩═╝╚═╝╩╚═╚═╝
 
 YELLOW		= \033[1;33m# bold / yellow
+CYAN		= \033[7;36m# background / cyan
 RED			= \033[1;31m# bold / red
 BACKGROUND	= \033[7;33m# background / yellow
 BLINK		= \033[5;2;39m# blink / gray
